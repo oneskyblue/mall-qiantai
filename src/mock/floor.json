@@ -1,0 +1,112 @@
+[
+  {
+    "id": "001",
+    "name": "家用电器",
+    "keywords": ["厨房卫浴", "电热水壶", "新风空调", "空气净化器", "4K高刷电视", "全自动洗衣机"],
+    "imgUrl": "/images/floor-1-1.jpg",
+    "navList": [{
+            "url": "#",
+            "text": "热门"
+        },
+        {
+            "url": "#",
+            "text": "空调"
+        },
+        {
+            "url": "#",
+            "text": "平板电视"
+        },
+        {
+            "url": "#",
+            "text": "冰箱"
+        },
+        {
+            "url": "#",
+            "text": "洗衣机"
+        },
+        {
+            "url": "#",
+            "text": "厨房大电"
+        },
+        {
+            "url": "#",
+            "text": "生活电器"
+        }
+    ],
+    "carouselList": [{
+            "id": "0011",
+            "imgUrl": "/images/floor-1-b01.jpg"
+        },
+        {
+            "id": "0012",
+            "imgUrl": "/images/floor-1-b02.jpg"
+        },
+        {
+            "id": "0013",
+            "imgUrl": "/images/floor-1-b03.jpg"
+        }
+    ],
+    "recommendList": [
+        "/images/floor-1-2.png",
+        "/images/floor-1-3.png",
+        "/images/floor-1-5.png",
+        "/images/floor-1-6.png"
+    ],
+    "bigImg": "/images/floor-1-4.jpg"
+  },
+  {
+    "id": "002",
+    "name": "手机配件",
+    "keywords": ["耳机", "充电线", "充电宝", "钢化膜", "手机壳", "手机支架"],
+    "imgUrl": "/images/floor-2-1.jpg",
+    "navList": [{
+            "url": "#",
+            "text": "热门"
+        },
+        {
+            "url": "#",
+            "text": "凯拉夫壳"
+        },
+        {
+            "url": "#",
+            "text": "氮化镓充电头"
+        },
+        {
+            "url": "#",
+            "text": "懒人支架"
+        },
+        {
+            "url": "#",
+            "text": "手机散热器"
+        },
+        {
+            "url": "#",
+            "text": "Baseus蓝牙耳机"
+        },
+        {
+            "url": "#",
+            "text": "编织数据线"
+        }
+    ],
+    "carouselList": [{
+            "id": "0011",
+            "imgUrl": "/images/floor-2-b01.webp"
+        },
+        {
+            "id": "0012",
+            "imgUrl": "/images/floor-2-b02.jpg"
+        },
+        {
+            "id": "0013",
+            "imgUrl": "/images/floor-2-b03.jpg"
+        }
+    ],
+    "recommendList": [
+        "/images/floor-2-2.png",
+        "/images/floor-2-3.jpg",
+        "/images/floor-2-5.jpg",
+        "/images/floor-2-6.jpg"
+    ],
+    "bigImg": "/images/floor-2-4.jpg"
+  }
+]

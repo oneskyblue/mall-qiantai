@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3954271 */
+  src: url('iconfont.woff2?t=1679383329461') format('woff2'),
+       url('iconfont.woff?t=1679383329461') format('woff'),
+       url('iconfont.ttf?t=1679383329461') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-paixushang:before {
+  content: "\e650";
+  font-size: 15px;
+}
+
+.icon-paixuxia:before {
+  content: "\e651";
+  font-size: 15px;
+}
+
+.icon-duihao2:before {
+  content: "\e69f";
+  font-size: 20px; 
+  line-height: 30px;
+  color: skyblue;
+}
+
+.icon-jipiao:before {
+  content: "\e63b";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-huafei:before {
+  content: "\e638";
+  font-size: 30px;
+  color: skyblue;
+}
+
+.icon-jiudian:before {
+  content: "\e89b";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-huochepiaomianxing:before {
+  content: "\e8d8";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-licai:before {
+  content: "\e6aa";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-caipiao:before {
+  content: "\e6ba";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-baitiao:before {
+  content: "\e61a";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-dianyingpiao:before {
+  content: "\e61c";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-youxi:before {
+  content: "\e69e";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-lipinka:before {
+  content: "\e8b2";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-jiayouzhan:before {
+  content: "\e6d0";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-tubiao_dianzhuzhongchou-zhongchoupiaoju:before {
+  content: "\e69c";
+  font-size: 28px;
+  color: skyblue;
+}
+
+.icon-weibo:before {
+  content: "\e630";
+}
+
+.icon-weixindenglu:before {
+  content: "\e606";
+}
+
+.icon-qqdenglu:before {
+  content: "\e60c";
+}
+
+.icon-zhifubao:before {
+  content: "\e8e4";
+}
+
+.icon-mima:before {
+  content: "\e6f8";
+}
+
+.icon-yonghu1:before {
+  content: "\e720";
+}
